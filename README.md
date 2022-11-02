@@ -61,7 +61,7 @@ The analysis employed six machine learning models, and the results for each were
 ![eec](https://user-images.githubusercontent.com/100387078/175821858-d4828572-f397-4c2e-9070-7c34f099a440.png)
 
 
-## Summary
+# Summary
 The Easy Ensemble AdaBoost Classifier model has the highest balanced accuracy score of 0.925, while the rest of the models had accuracy scores under 0.8. The sensitivity rate, aka "recall," for the Easy Ensemble AdaBoost Classifier was also highest amongst the ML models. The precision scores were very much similar for all the models, so there was no real difference in that regard. 
 
 The Easy Ensemble AdaBoost Classifier is the best machine learning model for this dataset.  
